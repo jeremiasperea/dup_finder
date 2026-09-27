@@ -1,0 +1,17 @@
+{
+  ".atl/.skill-registry.cache.json": {
+    "mtime": 1784778098.971606,
+    "ast_hash": "f57e6a599a025b998c88dfde9ace2905",
+    "semantic_hash": "f57e6a599a025b998c88dfde9ace2905"
+  },
+  "src/main.rs": {
+    "mtime": 1772078529.338081,
+    "ast_hash": "24f86d273d8b15f691a43ef38ff19f1d",
+    "semantic_hash": "24f86d273d8b15f691a43ef38ff19f1d"
+  },
+  ".atl/skill-registry.md": {
+    "mtime": 1784778098.5229933,
+    "ast_hash": "be8027a62bd05d0998c0d9c161179d64",
+    "semantic_hash": "be8027a62bd05d0998c0d9c161179d64"
+  }
+}
